@@ -2,7 +2,7 @@
 
 Project Portfolio 🔐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olufemi-joshua-ajala/)
 [![Website](https://img.shields.io/badge/Website-DC4E41?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([[https://www.youtube.com/c/YOUR_CHANNEL](https://www.youtube.com/@Joshua-Ajala)](https://www.youtube.com/@Joshua-Ajala))
 [![GitHub Follow](https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
