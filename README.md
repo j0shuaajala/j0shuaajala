@@ -22,7 +22,7 @@ Continuous Learning & AI Exploration: Committed to staying ahead of emerging tec
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/j0shuaajala/aj-vulnerability-management-program/edit/main/README.md#remediation-round-1-outdated-wireshark-removal)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
