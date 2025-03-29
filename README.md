@@ -45,7 +45,7 @@ Project Portfolio 🔐
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/j0shuaajala/aj-threat-hunting-scenario-tor)**
-  ## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations
 
 - **[A GRC-Forcused Guide to Using Noicrsoft Devender](https://github.com/j0shuaajala/GRC-Forcused-Guide-to-Using-Noicrsoft-Devender )**
 
