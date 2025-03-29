@@ -46,6 +46,11 @@ Project Portfolio 🔐
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/j0shuaajala/aj-threat-hunting-scenario-tor)**
 
+## 🚨 GRC Project
+
+- **[GRC Project ISO27001 )](https://github.com/j0shuaajala/Governance-Risk-and-Compliance-Project)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
