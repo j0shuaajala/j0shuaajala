@@ -47,11 +47,11 @@ Project Portfolio 🔐
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/j0shuaajala/aj-threat-hunting-scenario-tor)**
 ## 🚨 Threat Hunting and Security Operations
 
-- **[A GRC-Forcused Guide to Using Noicrsoft Devender](https://github.com/j0shuaajala/GRC-Forcused-Guide-to-Using-Noicrsoft-Devender )**
+- **[A GRC-Forcused Guide to Using Microsoft Devender](https://github.com/j0shuaajala/GRC-Forcused-Guide-to-Using-Noicrsoft-Devender )**
 
 ## 🚨 GRC Project
 
-- **[GRC Project ISO27001 )](https://github.com/j0shuaajala/Governance-Risk-and-Compliance-Project)**
+- **[GRC Project ISO27001 ](https://github.com/j0shuaajala/Governance-Risk-and-Compliance-Project)**
 
 
 <hr/>
