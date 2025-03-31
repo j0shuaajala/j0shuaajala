@@ -40,13 +40,12 @@ Project Portfolio 🔐
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/j0shuaajala/aj-vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/j0shuaajala/aj-threat-hunting-scenario-tor)**
-## 🚨 Threat Hunting and Security Operations
-
+## 🚨 Microsoft Devender
 - **[A GRC Forcused Guide to Using Microsoft Devender](https://github.com/j0shuaajala/GRC-Forcused-Guide-to-Using-Noicrsoft-Devender )**
 
 ## 🚨 GRC Project
