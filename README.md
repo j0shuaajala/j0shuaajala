@@ -7,7 +7,7 @@ Project Portfolio 🔐
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([[https://www.youtube.com/c/YOUR_CHANNEL](https://www.youtube.com/@Joshua-Ajala)](https://www.youtube.com/@Joshua-Ajala))
 [![GitHub Follow](https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-🔭 I’m currently working on AI security and AI Project
+🔭 I’m currently working on AI security Project
 
 🖥 Skills
 
