@@ -3,8 +3,8 @@
 Project Portfolio 🔐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olufemi-joshua-ajala/)
-[![Website](https://img.shields.io/badge/Website-DC4E41?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([[https://www.youtube.com/c/YOUR_CHANNEL](https://www.youtube.com/@Joshua-Ajala)](https://www.youtube.com/@Joshua-Ajala))
+[![Website](https://img.shields.io/badge/Website-DC4E41?style=for-the-badge&logo=google-chrome&logoColor=white)](https://securingtheaifrontier.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Joshua-Ajala)
 [![GitHub Follow](https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 🔭 I’m currently working on AI security Project
@@ -35,7 +35,7 @@ Project Portfolio 🔐
 ![KQL](https://img.shields.io/badge/KQL-00599C?style=for-the-badge&logo=microsoft&logoColor=white)  ![NIST](https://img.shields.io/badge/NIST-000000?style=for-the-badge&logo=nist&logoColor=white)  ![Tenable](https://img.shields.io/badge/Tenable-00A1DE?style=for-the-badge&logo=tenable&logoColor=white)  [![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://www.apache.org/)[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 
-📝 I sometimes write on:
+📝 I sometimes write on: [Securing the AI Frontier](https://securingtheaifrontier.com/)
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -45,8 +45,8 @@ Project Portfolio 🔐
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/j0shuaajala/aj-threat-hunting-scenario-tor)**
-## 🚨 Microsoft Devender
-- **[A GRC Forcused Guide to Using Microsoft Devender](https://github.com/j0shuaajala/GRC-Forcused-Guide-to-Using-Noicrsoft-Devender )**
+## 🚨  Microsoft Defender
+- **[A GRC Focused Guide to Using Microsoft Defender](https://github.com/j0shuaajala/GRC-Focused-Guide-to-Using-Microsoft-Defender)**
 
 ## 🚨 GRC Project
 
